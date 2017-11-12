@@ -1,2 +1,3 @@
-# project
-this file contains the code of my project
+# imad-app
+
+IMAD course application.
